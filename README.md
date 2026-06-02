@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile.jpg" alt="조하령 프로필 사진" width="180" style="border-radius: 50%;"/>
+</p>
+
 <h1 align="center">안녕하세요, 조하령입니다 👋</h1>
 <h3 align="center">Medical Device | Sales & Marketing | Product Manager</h3>
 
