@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요, 조하린입니다 👋</h1>
+<h1 align="center">안녕하세요, 조하령입니다 👋</h1>
 <h3 align="center">Medical Device | Sales & Marketing | Product Manager</h3>
 
 <br/>
