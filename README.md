@@ -1,17 +1,19 @@
-<p align="center">
-  <img src="profile.jpg" alt="조하령 프로필 사진" width="180" style="border-radius: 50%;"/>
-</p>
-
-<h1 align="center">안녕하세요, 조하령입니다 👋</h1>
-<h3 align="center">Medical Device | Sales & Marketing | Product Manager</h3>
-
-<br/>
-
-<p align="center">
-  의료기기 업계에서 영업과 마케팅을 아우르는 경험을 쌓아온 PM입니다.<br/>
-  의료전자 공학 기반의 기술 이해와 현장 영업 경험을 바탕으로<br/>
-  데이터 기반의 전략적 사고를 키워가고 있습니다.
-</p>
+<table>
+  <tr>
+    <td valign="middle" width="65%">
+      <h1>안녕하세요, 조하령입니다 👋</h1>
+      <h3>Medical Device | Sales & Marketing | Product Manager</h3>
+      <p>
+        의료기기 업계에서 영업과 마케팅을 아우르는 경험을 쌓아온 PM입니다.<br/>
+        의료전자 공학 기반의 기술 이해와 현장 영업 경험을 바탕으로<br/>
+        데이터 기반의 전략적 사고를 키워가고 있습니다.
+      </p>
+    </td>
+    <td valign="middle" align="right" width="35%">
+      <img src="profile.jpg" alt="조하령 프로필 사진" width="200" style="border-radius: 12px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
