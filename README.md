@@ -1,6 +1,6 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="middle" width="65%">
+    <td valign="middle" width="60%" style="border:none;">
       <h1>안녕하세요, 조하령입니다 👋</h1>
       <h3>Medical Device | Sales & Marketing | Product Manager</h3>
       <p>
@@ -9,8 +9,8 @@
         데이터 기반의 전략적 사고를 키워가고 있습니다.
       </p>
     </td>
-    <td valign="middle" align="right" width="35%">
-      <img src="profile.jpg" alt="조하령 프로필 사진" width="200" style="border-radius: 12px;"/>
+    <td valign="middle" align="right" width="40%" style="border:none;">
+      <img src="profile.jpg" alt="조하령 프로필 사진" width="300" style="border-radius: 12px;"/>
     </td>
   </tr>
 </table>
